@@ -1,0 +1,6 @@
+name: HocusPromotions
+main: com.redehocus.promotions.PromotionsPlugin
+version: 1.0.0
+depend:
+  - custom-items
+  - helper
